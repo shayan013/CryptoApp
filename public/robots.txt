@@ -1,0 +1,4 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+"https://api.coinstats.app/public/v1/coins?skip=0"
